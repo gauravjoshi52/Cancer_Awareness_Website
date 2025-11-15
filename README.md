@@ -126,5 +126,3 @@ Output:
 <img width="1853" height="902" alt="Screenshot 2025-11-16 030515" src="https://github.com/user-attachments/assets/ca5ceb70-d18c-43ba-a1d1-89da6243fc3c" />
 <img width="1858" height="912" alt="Screenshot 2025-11-16 030527" src="https://github.com/user-attachments/assets/d2eae647-df25-46fe-b90f-814d518c3205" />
 <img width="1871" height="920" alt="Screenshot 2025-11-16 030544" src="https://github.com/user-attachments/assets/c02c418c-7ac2-4fe0-b143-d523c911bdd6" />
-
-No additional setup required! Just upload the files and your website is live.
